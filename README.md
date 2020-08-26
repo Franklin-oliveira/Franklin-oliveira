@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<br>
-
 #### Wanna know who am I? 
 
 <br>
