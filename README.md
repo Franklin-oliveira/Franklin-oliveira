@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-#### Wanna know who am I? 
 
-I am a Financist deeply in love with data, programming and technology. 
+Let me tell you a little bit about myself: I am a Financist deeply in love with data, programming and technology. 
 
-Everyday I learn new things about myself and always get surprised of how dedicated and persistent I can be about new challenges. Computers are a passion that I find out during my first masters degree (in Economics) and became a significant part of my job, studies and hobbies ever since.
+Everyday I learn new things about myself and always get surprised of how dedicated and persistent I can be about new challenges. I'm passionate about computers, programming and getting things done!
 
-I am constantly applying different approaches to explore and make sense of data, like Machine Learning and information visualization techniques. I am also a Deep Learning enthusiast avid to build applications with it.
+I am constantly applying different approaches to explore and make sense of data, like Machine Learning and Information Visualization techniques. I am also a Deep Learning enthusiast avid to build applications with it.
 
-Currently I'm a masters student in Applied Mathematics at Fundação Getúlio Vargas in Rio de Janeiro and work as a part time researcher at the Center for Regulatory and Infrastructure Studies in the same institution. 
+I'm currently looking for opportunities to collaborate building data-driven applications. If you have something for me, please let me know. ;)
 
-**Skills / Interests:** Python, Julia, R, C++, JavaScript, NodeJS, D3.js, HTML, CSS, Git, GitHub, SQL, Docker, Shell Scripting Languages, Linux. 
+Thanks for visiting my Github 😄
+
+<!--**Skills / Interests:** Python, Julia, R, C++, JavaScript, NodeJS, D3.js, HTML, CSS, Git, GitHub, SQL, Docker, Shell Scripting Languages, Linux. -->
 
 <!--
 **Franklin-oliveira/Franklin-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
