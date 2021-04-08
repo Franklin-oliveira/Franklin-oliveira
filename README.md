@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-Let me tell you a little bit about myself: I am a Financist deeply in love with data, programming and technology. I'm always looking for new challenges in which I can apply my skills and get things done!
-
-I am constantly applying different approaches to explore and make sense of data, like Machine Learning and Information Visualization techniques. I am also a Deep Learning enthusiast avid to build applications with it.
+Let me tell you a little bit about myself: I am a Financist deeply in love with data, programming and technology. I'm always looking for new challenges in which I can apply my skills and get things done! I am constantly applying different approaches to explore and make sense of data, like Machine Learning and Information Visualization techniques. I am also a Deep Learning enthusiast avid to build applications with it.
 
 I'm currently looking for opportunities to collaborate building data-driven applications. If you have something for me, please let me know. ;)
 
