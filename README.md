@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-Let me tell you a little bit about myself: I am a Financist deeply in love with data, programming and technology. I'm always looking for new challenges in which I can apply my skills and get things done! I am constantly applying different approaches to explore and make sense of data, like Machine Learning and Information Visualization techniques. I am also a Deep Learning enthusiast avid to build applications with it.
+Let me tell you a little bit about myself: I am deeply in love with data, programming and technology. I'm always looking for new challenges in which I can apply my skills and get things done! I'm avid to learn new technologies and share it with others. 🌱
 
-I'm currently looking for opportunities to collaborate building data-driven applications. If you have something for me, please let me know. ;)
+If you have something for me, please let me know. ;)
+
+Find me on LinkedIn: [here's my LinkedIn profile](https://www.linkedin.com/in/franklin-oliveira95/)
 
 Thanks for visiting my Github! 😄
 
