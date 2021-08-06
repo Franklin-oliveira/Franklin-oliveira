@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🧔 
 
 
 Let me tell you a little bit about myself: I am deeply in love with data, programming and technology. I'm always looking for new challenges in which I can apply my skills and get things done! I'm avid to learn new technologies and share it with others. 🌱
