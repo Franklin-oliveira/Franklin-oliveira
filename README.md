@@ -5,9 +5,30 @@ Let me tell you a little bit about myself: I am deeply in love with data, progra
 
 If you have something for me, please let me know. ;)
 
-Find me on LinkedIn: [here's my LinkedIn profile](https://www.linkedin.com/in/franklin-oliveira95/)
-
 Thanks for visiting my Github! 😄
+
+<br>
+
+#### Contact me on:
+
+<div>
+    <a href="mailto:franklin.alves.oliveira@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+    </a>
+    <a href="https://www.linkedin.com/in/franklin-oliveira95/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    </a>
+</div>
+
+
+
+<!-- <div>
+    <a href="https://github.com/Franklin-oliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franklin-oliveira&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-oliveira&layout=compact&langs_count=16&theme=light"/>
+</div> -->
+
+
 
 <!--**Skills / Interests:** Python, Julia, R, C++, JavaScript, NodeJS, D3.js, HTML, CSS, Git, GitHub, SQL, Docker, Shell Scripting Languages, Linux. -->
 
