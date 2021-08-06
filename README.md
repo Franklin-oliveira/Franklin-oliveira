@@ -7,8 +7,6 @@ If you have something for me, please let me know. ;)
 
 Thanks for visiting my Github! 😄
 
-<br>
-
 #### Contact me on:
 
 <div>
