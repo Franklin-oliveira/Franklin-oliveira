@@ -1,4 +1,4 @@
-### Hi there 🧔 
+### Hi there, I'm Franklin. 🧔 
 
 
 Let me tell you a little bit about myself: I am deeply in love with data, programming and technology. I'm always looking for new challenges in which I can apply my skills and get things done! I'm avid to learn new technologies and share it with others. 🌱
@@ -19,12 +19,14 @@ Thanks for visiting my Github! 😄
 </div>
 
 
+-----
 
-<!-- <div>
+<div>
     <a href="https://github.com/Franklin-oliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franklin-oliveira&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-oliveira&layout=compact&langs_count=16&theme=light"/>
-</div> -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-oliveira&layout=compact&langs_count=16&theme=light"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franklin-oliveira&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
 
 
 
