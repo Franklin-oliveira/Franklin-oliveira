@@ -8,7 +8,7 @@ MSc Mathematical Modelling graduated from Fundação Getulio Vargas RJ ([EMAp FG
 ### About me:
 
 - 🏡 I'm from Fortaleza - CE, Brazil
-- 🔭 I'm currently working on fraud detection models. 
+- 🔭 I'm a Data Scientist (3+ years of experience). 
 - 🎲 Love data, programming and technology. 
 - 🌱 Avid to learn new tools. 
 - 🤔 Interested in: Machine Learning, Deep Learning, Statistics, ML Engineering, Data Engineering, Big Data, Data Ops
